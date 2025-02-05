@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "categoryId": 1001,
+      "name": "Popular Marvel"
+    },
+    {
+      "categoryId": 1002,
+      "name": "Popular DC"
+    },
+    {
+      "categoryId": 1003,
+      "name": "Adult"
+    },
+    {
+      "categoryId": 1004,
+      "name": "Adventure"
+    },
+    {
+      "categoryId": 1005,
+      "name": "Mangas"
+    }
+  ],
+  "books": [
+    {
+      "bookId": 1001,
+      "title": "All-Out Avengers",
+      "description": "Issue #1 (2022)",
+      "author": "Derek Landy",
+      "price": 399,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1002,
+      "title": "The Secret X-Men",
+      "description": "Issue #1 (2022)",
+      "author": "Tini Howard",
+      "price": 299,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1003,
+      "title": "The Amazing Spider-Man",
+      "description": "Issue #1 (2022)",
+      "author": "Zeb Wells",
+      "price": 599,
+      "isPublic": true,
+      "categoryId": 1001
+    },
+    {
+      "bookId": 1004,
+      "title": "The Invincible Iron-Man",
+      "description": "Issue #1 (2022)",
+      "author": "Gerry Dugan",
+      "price": 499,
+      "isPublic": true,
+      "categoryId": 1001
+    }
+  ],
+  "best-sellers": [
+    {
+      "bookId": 2001,
+      "title": "The Walking Dead",
+      "description": "Compendium #4",
+      "isPublic": true
+    },
+    {
+      "bookId": 2002,
+      "title": "The Boys",
+      "description": "Volume #1",
+      "isPublic": true
+    },
+    {
+      "bookId": 2003,
+      "title": "Attack on Titan",
+      "description": "Volume #34",
+      "isPublic": true
+    },
+    {
+      "bookId": 2004,
+      "title": "Preacher",
+      "description": "Book #1",
+      "isPublic": true
+    },
+    {
+      "bookId": 2005,
+      "title": "Invincible",
+      "description": "Compendium #1",
+      "isPublic": true
+    }
+  ]
+}
